@@ -46,8 +46,7 @@
       "properties": {
         "mode": "Incremental",
         "templateLink": {
-          "uri": "[variables('linkedStorageTemplate')]",
-          "contentVersion":"1.0.0.0"
+          "uri": "[variables('linkedStorageTemplate')]"          
         },
         "parameters": {
           "storageAccountName": {
