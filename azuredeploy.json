@@ -22,7 +22,8 @@
       "defaultValue": "php|7.0",
       "metadata": {
         "description": "The Runtime stack of current web app"
-      },
+      }
+    },
       "_artifactsLocation": {
       "type": "string",
       "defaultValue": "https://raw.githubusercontent.com/abKrazy/linkedTemplateDemo/main",
